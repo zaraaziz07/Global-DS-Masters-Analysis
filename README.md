@@ -2,71 +2,64 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Universities-100%2B-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Countries-Multiple-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Countries-5-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Universities-100%2B-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen?style=for-the-badge">
 </p>
 
 ---
 
 ## 📖 About
 
-This repository contains a carefully curated dataset of **Master's in Data Science** programs from universities around the world. It was created to simplify the university research process by bringing essential admission information into one organized place.
+This repository contains a curated collection of **Master's in Data Science** programs from leading universities across the **United States, Canada, the United Kingdom, Germany, and Italy**.
 
-Instead of browsing hundreds of university websites, this repository provides structured information that can be used for university shortlisting, comparison, and future analysis.
+The data has been organized into structured datasets and country-wise research documents to simplify university comparison, admission planning, and scholarship research for prospective international students.
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 📦 Masters-DataScience-Research
 │
 ├── 📁 data
-│   ├── Excel datasets
-│   ├── University comparison tables
-│   ├── Tuition & scholarship data
-│   ├── Admission requirements
-│   └── Application deadlines
+│   └── 📄 masters_ds_data_collection.xlsx
 │
 ├── 📁 docs
-│   ├── Research notes
-│   ├── University summaries
-│   ├── Program details
-│   └── Supporting documentation
+│   ├── 📄 UK DS Masters Analysis
+│   ├── 📄 USA DS Masters Analysis
+│   ├── 📄 Canada DS Masters Analysis
+│   ├── 📄 Germany DS Masters Analysis
+│   └── 📄 Italy DS Masters Analysis
 │
-└── README.md
+└── 📄 README.md
 ```
 
 ---
 
-## 📊 Information Collected
-
-The dataset includes information such as:
+## 📊 Dataset Includes
 
 * 🎓 University Name
 * 🌍 Country
-* 📈 QS World Ranking
-* 💻 Degree Program
+* 🏆 QS World Ranking
+* 💻 Master's Program
 * 📚 Specialization
 * ⏳ Program Duration
 * 💰 Tuition Fees
-* 💵 Estimated Living Costs
+* 🏠 Estimated Living Expenses
 * 🎯 Scholarships
 * 📅 Application Deadlines
 * 📋 Admission Requirements
 * 🎓 Minimum GPA
 * 📝 GRE Requirement
 * 🌐 IELTS / TOEFL Requirements
-* 🔬 Thesis / Non-Thesis Option
-* 💼 Internship / Co-op Availability
-* ⭐ Program Highlights
+* 📖 Thesis / Non-Thesis
+* 💼 Internship / Co-op Opportunities
+* ⭐ Additional Notes
 
 ---
 
 ## 🌎 Countries Covered
-
-The repository currently includes universities from countries such as:
 
 * 🇺🇸 United States
 * 🇨🇦 Canada
@@ -74,61 +67,26 @@ The repository currently includes universities from countries such as:
 * 🇩🇪 Germany
 * 🇮🇹 Italy
 
-Additional countries may be added in future updates.
-
 ---
 
 ## 🎯 Purpose
 
-The goal of this repository is to:
+This repository aims to:
 
-* Help students compare Data Science master's programs.
-* Save time by organizing admission information.
-* Provide a structured dataset for research and analysis.
-* Support study-abroad planning and university shortlisting.
+* Help students shortlist universities efficiently.
+* Compare admission requirements across countries.
+* Organize scholarship and tuition information in one place.
+* Reduce the time spent searching multiple university websites.
+* Serve as a structured educational dataset for research and analysis.
 
 ---
 
 ## 📌 Data Sources
 
-Information has been compiled from:
-
-* Official university websites
-* Official admissions portals
-* Program handbooks
-* Scholarship pages
-* University rankings
-* Publicly available academic resources
-
-Every effort has been made to keep the information accurate. Applicants should always verify details on the official university website before applying.
+The information has been compiled from official university websites, admissions portals, program pages, scholarship pages, and globally recognized university rankings. While every effort has been made to ensure accuracy, applicants should always verify details directly from the respective university before applying.
 
 ---
 
-## 🚀 Potential Uses
+## ⭐ Support
 
-This dataset can be used for:
-
-* University comparison
-* Scholarship research
-* Admission planning
-* Study abroad guidance
-* Educational data analysis
-* Personal research projects
-
----
-
-## 🤝 Contributions
-
-Suggestions, corrections, and updates are always welcome. Feel free to open an issue or submit a pull request if you find outdated information or would like to expand the dataset.
-
----
-
-## ⭐ If you found this repository helpful
-
-Please consider giving it a **Star ⭐** to support the project and help other students discover it.
-
----
-
-<p align="center">
-<b>Making Master's research simpler, more organized, and accessible for everyone.</b>
-</p>
+If you find this repository useful, consider giving it a **Star ⭐**. It helps others discover the project and supports future updates.
