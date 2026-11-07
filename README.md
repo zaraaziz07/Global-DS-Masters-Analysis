@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Countries-5-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Universities-100%2B-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Universities-50%2B-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen?style=for-the-badge">
 </p>
 
